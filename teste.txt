@@ -1,1 +1,15 @@
 Teste
+
+instalar o npm - npm install -g expo-cli
+
+
+add variavel de ambiente na path
+
+C:\Users\202302334768(usuario da maquina)\AppData\Roaming ou 
+C:\Users\202302334768(usuario da maquina)\AppData\Roaming\npm
+
+
+
+comando expo para validar
+
+depois - expo init appzinho
